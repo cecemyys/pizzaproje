@@ -7,4 +7,5 @@ pizza ve hamburger üzerine satış
 Sitemiz sadece html ve css kullanılarak tasarlandı
 
 <h3>Ekran Görüntüsü</h3>
+
 ![](p%C4%B1zza.gif)
